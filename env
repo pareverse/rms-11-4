@@ -1,0 +1,8 @@
+NEXT_PUBLIC_URL = http://localhost:3000
+NEXTAUTH_URL = http://localhost:3000
+NEXTAUTH_SECRET = 000-000-000-000-000
+MONGODB_URI = mongodb+srv://tan:tan@commence.wnpaegz.mongodb.net/rms?retryWrites=true&w=majority
+SENDGRID_API_KEY = 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
+EMAIL_FROM = m.tristanfelizarta@gmail.com
+GOOGLE_CLIENT_ID = 327591904602-tivgl2m6gcojndu9btcoeababl6ef2oi.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET = 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
